@@ -10,7 +10,3 @@ text=image_to_string(img)
 
 speech=gTTS(text)
 speech.save('C:/Users/Admin/Desktop/Text_To_Speech_Conversion/Speech.mp3')
-
-#print(text)
-
-
